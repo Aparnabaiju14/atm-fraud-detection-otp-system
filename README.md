@@ -17,7 +17,7 @@ This project simulates an ATM security system that detects suspicious transactio
 
 ## Fraud Detection Logic
 
-Transactions above a defined threshold trigger OTP verification before completion.
+Transactions exceeding a predefined threshold are flagged as suspicious and require OTP verification before completion.
 
 ## Workflow
 
@@ -28,7 +28,7 @@ Transactions above a defined threshold trigger OTP verification before completio
 5. OTP verification if transaction is suspicious
 6. Transaction approved or blocked
 
-## Note
+
 
 ## Note
 
